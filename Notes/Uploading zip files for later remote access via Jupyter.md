@@ -1,3 +1,6 @@
+**Disclaimer: this method requires you to continually purchase datapacks with each instance of fetching the file.**
+**Unfortunately, this resulted in my GitLFS being disabled for a whole month. Avoid at all costs.**
+
 Run the following commands in Git Bash to upload the `.zip` file using Git Bash and Git LFS:
 ```
 git checkout -b master
